@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+  <packageId>Andross.CombatEnthusiastsCollection</packageId>
+	<name>Combat Enthusiast's Collection</name>
+	<author>Andross</author>
+	<url>https://github.com/onigamii/CombatEnthusiastsCollection</url>
+	<supportedVersions>
+    <li>1.2</li>
+	</supportedVersions>
+	<description>Version: 1.2.1.0\n\nA selection of firearms aimed to enhance the vanilla experience, but it's more of a personal collection really. Primarilly balanced around vanilla weapons / Combat Extended and its weapon expansion mods.\n\nCredits:\nPooler - Original Author</description>
+	
+</ModMetaData>
